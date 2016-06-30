@@ -1,4 +1,4 @@
-
+// https://en.wikipedia.org/wiki/Decorator_pattern
 public class Main {
 	
     public static void printInfo(Coffee c) {
